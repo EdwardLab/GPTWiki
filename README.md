@@ -77,3 +77,13 @@ See [`example.py`](./example.py) — full working script that:
 - Classifies and uploads to your MediaWiki
 - Runs in multithreaded infinite loop
 
+---
+
+## 🧬 Inspiration
+
+**GPTWiki** is inspired by [LSJBOT](https://en.wikipedia.org/wiki/LSJBOT), the bot that created millions of Wikipedia articles using static datasets.
+
+Unlike LSJBOT, GPTWiki demonstrates that **modern LLMs + live APIs** (e.g. Reddit) can generate structured, high-quality encyclopedia articles — **with zero human editing**.
+
+> It proves that full-scale, autonomous wiki generation is now viable using public data and AI.
+
